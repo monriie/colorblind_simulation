@@ -1,0 +1,109 @@
+{
+  "subset": "train",
+  "excluded_class": "000neg",
+  "raw_class_count": 19,
+  "raw_image_count": 4870,
+  "deduplicated_resized_count": 4692,
+  "image_analysis_success_count": 4656,
+  "analysis_error_count": 36,
+  "phash_threshold": 4,
+  "output_size": 512,
+  "segmentation_size": 128,
+  "grabcut_border_fraction": 0.03,
+  "kmeans_clusters": 4,
+  "color_samples_per_image": 1000,
+  "copunctal_points_cie1931_xy": {
+    "protan": [
+      0.763,
+      0.236
+    ],
+    "deutan": [
+      1.4,
+      -0.4
+    ]
+  },
+  "otsu_thresholds": {
+    "protan": 0.03980663498523304,
+    "deutan": 0.04699970647057296
+  },
+  "selected_classes_by_cvd": {
+    "protan": [
+      "001apple",
+      "002orange",
+      "003pear",
+      "004tomato",
+      "005strawberry",
+      "007watermelon",
+      "008kiwi",
+      "009peach",
+      "010pomegranate",
+      "011pineapple",
+      "012starfruit",
+      "013grape",
+      "014lemon",
+      "015pomelo",
+      "016mango",
+      "017durian",
+      "018hami"
+    ],
+    "deutan": [
+      "001apple",
+      "002orange",
+      "003pear",
+      "006banana",
+      "007watermelon",
+      "008kiwi",
+      "009peach",
+      "011pineapple",
+      "012starfruit",
+      "014lemon",
+      "015pomelo",
+      "016mango",
+      "017durian",
+      "018hami",
+      "019papaya"
+    ]
+  },
+  "undersampling": [
+    {
+      "cvd_family": "protan",
+      "otsu_image_distance_threshold": 0.03980663498523304,
+      "classes_selected": 17,
+      "class_quota_after_filter": 64,
+      "image_count_after_undersampling": 1088,
+      "selected_classes": "001apple,002orange,003pear,004tomato,005strawberry,007watermelon,008kiwi,009peach,010pomegranate,011pineapple,012starfruit,013grape,014lemon,015pomelo,016mango,017durian,018hami",
+      "family_balance_quota": 525,
+      "image_count_after_family_balance": 525,
+      "class_counts_after_family_balance": "{\"001apple\": 29, \"002orange\": 35, \"003pear\": 28, \"004tomato\": 34, \"005strawberry\": 37, \"007watermelon\": 34, \"008kiwi\": 29, \"009peach\": 30, \"010pomegranate\": 37, \"011pineapple\": 35, \"012starfruit\": 27, \"013grape\": 32, \"014lemon\": 27, \"015pomelo\": 30, \"016mango\": 28, \"017durian\": 26, \"018hami\": 27}"
+    },
+    {
+      "cvd_family": "deutan",
+      "otsu_image_distance_threshold": 0.04699970647057296,
+      "classes_selected": 15,
+      "class_quota_after_filter": 35,
+      "image_count_after_undersampling": 525,
+      "selected_classes": "001apple,002orange,003pear,006banana,007watermelon,008kiwi,009peach,011pineapple,012starfruit,014lemon,015pomelo,016mango,017durian,018hami,019papaya",
+      "family_balance_quota": 525,
+      "image_count_after_family_balance": 525,
+      "class_counts_after_family_balance": "{\"001apple\": 35, \"002orange\": 35, \"003pear\": 35, \"006banana\": 35, \"007watermelon\": 35, \"008kiwi\": 35, \"009peach\": 35, \"011pineapple\": 35, \"012starfruit\": 35, \"014lemon\": 35, \"015pomelo\": 35, \"016mango\": 35, \"017durian\": 35, \"018hami\": 35, \"019papaya\": 35}"
+    }
+  ],
+  "family_balance_quota": 525,
+  "final_cvd_family_counts": {
+    "protan": 525,
+    "deutan": 525
+  },
+  "final_manifest_image_count": 949,
+  "generated_files": [
+    "dataset_preparation_report.csv",
+    "manifest.csv",
+    "deduplication_report.csv",
+    "dataset_preparation_errors.csv",
+    "confusion_line_image_analysis.csv",
+    "confusion_line_class_summary.csv",
+    "confusion_line_selected_by_cvd.csv",
+    "confusion_line_filter_summary.csv",
+    "confusion_line_filtered/protan/",
+    "confusion_line_filtered/deutan/"
+  ]
+}

@@ -1,0 +1,1617 @@
+[
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\001apple\\train\\134.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\001apple\\train\\126.png",
+    "distance": 8
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\001apple\\train\\14.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\001apple\\train\\11.png",
+    "distance": 4
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\001apple\\train\\146.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\001apple\\train\\127.png",
+    "distance": 8
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\001apple\\train\\184.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\001apple\\train\\111.png",
+    "distance": 6
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\001apple\\train\\205.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\001apple\\train\\161.png",
+    "distance": 8
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\001apple\\train\\208.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\001apple\\train\\165.png",
+    "distance": 6
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\001apple\\train\\217.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\001apple\\train\\206.png",
+    "distance": 4
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\001apple\\train\\256.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\001apple\\train\\197.png",
+    "distance": 6
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\001apple\\train\\258.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\001apple\\train\\194.png",
+    "distance": 4
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\001apple\\train\\260.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\001apple\\train\\229.png",
+    "distance": 2
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\001apple\\train\\269.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\001apple\\train\\261.png",
+    "distance": 2
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\001apple\\train\\277.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\001apple\\train\\169.png",
+    "distance": 4
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\001apple\\train\\297.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\001apple\\train\\108.png",
+    "distance": 6
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\001apple\\train\\314.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\001apple\\train\\30.png",
+    "distance": 6
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\001apple\\train\\315.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\001apple\\train\\30.png",
+    "distance": 4
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\001apple\\train\\326.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\001apple\\train\\100.png",
+    "distance": 4
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\001apple\\train\\334.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\001apple\\train\\23.png",
+    "distance": 8
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\001apple\\train\\348.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\001apple\\train\\167.png",
+    "distance": 6
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\001apple\\train\\350.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\001apple\\train\\288.png",
+    "distance": 4
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\001apple\\train\\357.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\001apple\\train\\267.png",
+    "distance": 6
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\001apple\\train\\361.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\001apple\\train\\282.png",
+    "distance": 4
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\001apple\\train\\371.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\001apple\\train\\215.png",
+    "distance": 4
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\001apple\\train\\378.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\001apple\\train\\132.png",
+    "distance": 8
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\001apple\\train\\388.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\001apple\\train\\169.png",
+    "distance": 4
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\001apple\\train\\389.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\001apple\\train\\276.png",
+    "distance": 2
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\001apple\\train\\393.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\001apple\\train\\294.png",
+    "distance": 8
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\001apple\\train\\407.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\001apple\\train\\4.png",
+    "distance": 2
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\001apple\\train\\409.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\001apple\\train\\402.png",
+    "distance": 6
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\001apple\\train\\410.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\001apple\\train\\402.png",
+    "distance": 6
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\001apple\\train\\414.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\001apple\\train\\39.png",
+    "distance": 2
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\001apple\\train\\417.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\001apple\\train\\215.png",
+    "distance": 6
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\001apple\\train\\45.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\001apple\\train\\336.png",
+    "distance": 8
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\001apple\\train\\47.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\001apple\\train\\341.png",
+    "distance": 8
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\001apple\\train\\49.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\001apple\\train\\375.png",
+    "distance": 8
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\001apple\\train\\57.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\001apple\\train\\30.png",
+    "distance": 8
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\001apple\\train\\59.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\001apple\\train\\111.png",
+    "distance": 4
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\001apple\\train\\6.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\001apple\\train\\20.png",
+    "distance": 6
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\001apple\\train\\63.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\001apple\\train\\33.png",
+    "distance": 4
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\001apple\\train\\65.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\001apple\\train\\64.png",
+    "distance": 8
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\001apple\\train\\69.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\001apple\\train\\117.png",
+    "distance": 8
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\001apple\\train\\7.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\001apple\\train\\22.png",
+    "distance": 8
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\001apple\\train\\71.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\001apple\\train\\34.png",
+    "distance": 6
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\001apple\\train\\80.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\001apple\\train\\106.png",
+    "distance": 6
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\001apple\\train\\81.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\001apple\\train\\39.png",
+    "distance": 2
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\001apple\\train\\86.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\001apple\\train\\178.png",
+    "distance": 8
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\001apple\\train\\99.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\001apple\\train\\313.png",
+    "distance": 0
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\002orange\\train\\116.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\002orange\\train\\100.png",
+    "distance": 4
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\002orange\\train\\121.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\002orange\\train\\120.png",
+    "distance": 4
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\002orange\\train\\15.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\002orange\\train\\105.png",
+    "distance": 4
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\002orange\\train\\196.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\002orange\\train\\183.png",
+    "distance": 4
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\002orange\\train\\224.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\002orange\\train\\152.png",
+    "distance": 8
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\002orange\\train\\25.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\002orange\\train\\199.png",
+    "distance": 6
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\002orange\\train\\290.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\002orange\\train\\2.png",
+    "distance": 8
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\002orange\\train\\296.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\002orange\\train\\295.png",
+    "distance": 8
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\002orange\\train\\304.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\002orange\\train\\118.png",
+    "distance": 6
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\002orange\\train\\334.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\002orange\\train\\100.png",
+    "distance": 8
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\002orange\\train\\359.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\002orange\\train\\355.png",
+    "distance": 8
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\002orange\\train\\372.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\002orange\\train\\31.png",
+    "distance": 8
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\002orange\\train\\373.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\002orange\\train\\31.png",
+    "distance": 8
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\002orange\\train\\378.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\002orange\\train\\103.png",
+    "distance": 8
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\002orange\\train\\388.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\002orange\\train\\387.png",
+    "distance": 4
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\002orange\\train\\389.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\002orange\\train\\104.png",
+    "distance": 4
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\002orange\\train\\392.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\002orange\\train\\31.png",
+    "distance": 8
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\002orange\\train\\4.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\002orange\\train\\3.png",
+    "distance": 4
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\002orange\\train\\93.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\002orange\\train\\381.png",
+    "distance": 6
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\002orange\\train\\99.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\002orange\\train\\39.png",
+    "distance": 8
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\003pear\\train\\135.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\003pear\\train\\13.png",
+    "distance": 8
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\003pear\\train\\154.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\003pear\\train\\10.png",
+    "distance": 8
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\003pear\\train\\158.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\003pear\\train\\132.png",
+    "distance": 8
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\003pear\\train\\161.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\003pear\\train\\121.png",
+    "distance": 4
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\003pear\\train\\171.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\003pear\\train\\170.png",
+    "distance": 8
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\003pear\\train\\182.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\003pear\\train\\12.png",
+    "distance": 6
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\003pear\\train\\199.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\003pear\\train\\111.png",
+    "distance": 6
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\003pear\\train\\224.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\003pear\\train\\179.png",
+    "distance": 8
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\003pear\\train\\226.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\003pear\\train\\179.png",
+    "distance": 6
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\003pear\\train\\227.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\003pear\\train\\179.png",
+    "distance": 8
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\003pear\\train\\266.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\003pear\\train\\210.png",
+    "distance": 8
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\003pear\\train\\34.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\003pear\\train\\2.png",
+    "distance": 8
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\003pear\\train\\38.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\003pear\\train\\194.png",
+    "distance": 8
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\003pear\\train\\39.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\003pear\\train\\18.png",
+    "distance": 4
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\003pear\\train\\40.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\003pear\\train\\131.png",
+    "distance": 6
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\003pear\\train\\41.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\003pear\\train\\128.png",
+    "distance": 4
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\003pear\\train\\54.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\003pear\\train\\13.png",
+    "distance": 8
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\003pear\\train\\55.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\003pear\\train\\10.png",
+    "distance": 4
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\003pear\\train\\58.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\003pear\\train\\10.png",
+    "distance": 6
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\003pear\\train\\69.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\003pear\\train\\187.png",
+    "distance": 2
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\003pear\\train\\72.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\003pear\\train\\174.png",
+    "distance": 8
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\003pear\\train\\73.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\003pear\\train\\15.png",
+    "distance": 8
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\003pear\\train\\75.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\003pear\\train\\155.png",
+    "distance": 8
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\003pear\\train\\76.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\003pear\\train\\15.png",
+    "distance": 8
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\003pear\\train\\77.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\003pear\\train\\10.png",
+    "distance": 8
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\003pear\\train\\87.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\003pear\\train\\80.png",
+    "distance": 6
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\004tomato\\train\\150.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\004tomato\\train\\125.png",
+    "distance": 8
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\004tomato\\train\\163.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\004tomato\\train\\161.png",
+    "distance": 2
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\004tomato\\train\\212.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\004tomato\\train\\103.png",
+    "distance": 4
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\004tomato\\train\\221.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\004tomato\\train\\156.png",
+    "distance": 8
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\004tomato\\train\\238.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\004tomato\\train\\176.png",
+    "distance": 8
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\004tomato\\train\\257.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\004tomato\\train\\157.png",
+    "distance": 4
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\004tomato\\train\\324.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\004tomato\\train\\14.png",
+    "distance": 6
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\004tomato\\train\\335.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\004tomato\\train\\179.png",
+    "distance": 8
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\004tomato\\train\\346.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\004tomato\\train\\126.png",
+    "distance": 4
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\004tomato\\train\\356.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\004tomato\\train\\148.png",
+    "distance": 6
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\004tomato\\train\\360.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\004tomato\\train\\201.png",
+    "distance": 6
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\004tomato\\train\\363.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\004tomato\\train\\352.png",
+    "distance": 8
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\004tomato\\train\\365.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\004tomato\\train\\200.png",
+    "distance": 8
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\004tomato\\train\\369.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\004tomato\\train\\301.png",
+    "distance": 6
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\004tomato\\train\\376.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\004tomato\\train\\189.png",
+    "distance": 8
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\004tomato\\train\\389.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\004tomato\\train\\157.png",
+    "distance": 6
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\004tomato\\train\\400.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\004tomato\\train\\190.png",
+    "distance": 4
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\004tomato\\train\\403.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\004tomato\\train\\135.png",
+    "distance": 8
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\004tomato\\train\\407.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\004tomato\\train\\103.png",
+    "distance": 8
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\004tomato\\train\\409.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\004tomato\\train\\156.png",
+    "distance": 4
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\004tomato\\train\\44.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\004tomato\\train\\373.png",
+    "distance": 8
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\004tomato\\train\\71.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\004tomato\\train\\247.png",
+    "distance": 4
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\004tomato\\train\\84.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\004tomato\\train\\331.png",
+    "distance": 8
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\004tomato\\train\\95.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\004tomato\\train\\364.png",
+    "distance": 8
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\005strawberry\\train\\165.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\005strawberry\\train\\120.png",
+    "distance": 6
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\005strawberry\\train\\190.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\005strawberry\\train\\101.png",
+    "distance": 6
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\005strawberry\\train\\222.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\005strawberry\\train\\212.png",
+    "distance": 2
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\005strawberry\\train\\271.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\005strawberry\\train\\270.png",
+    "distance": 2
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\005strawberry\\train\\278.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\005strawberry\\train\\101.png",
+    "distance": 8
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\005strawberry\\train\\32.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\005strawberry\\train\\179.png",
+    "distance": 8
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\005strawberry\\train\\336.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\005strawberry\\train\\320.png",
+    "distance": 4
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\005strawberry\\train\\343.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\005strawberry\\train\\318.png",
+    "distance": 8
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\005strawberry\\train\\344.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\005strawberry\\train\\101.png",
+    "distance": 2
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\005strawberry\\train\\347.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\005strawberry\\train\\101.png",
+    "distance": 8
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\005strawberry\\train\\357.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\005strawberry\\train\\342.png",
+    "distance": 8
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\005strawberry\\train\\382.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\005strawberry\\train\\104.png",
+    "distance": 8
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\005strawberry\\train\\397.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\005strawberry\\train\\393.png",
+    "distance": 6
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\005strawberry\\train\\405.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\005strawberry\\train\\35.png",
+    "distance": 6
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\005strawberry\\train\\427.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\005strawberry\\train\\212.png",
+    "distance": 8
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\005strawberry\\train\\432.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\005strawberry\\train\\30.png",
+    "distance": 6
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\005strawberry\\train\\440.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\005strawberry\\train\\393.png",
+    "distance": 8
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\005strawberry\\train\\447.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\005strawberry\\train\\152.png",
+    "distance": 2
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\005strawberry\\train\\448.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\005strawberry\\train\\112.png",
+    "distance": 8
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\005strawberry\\train\\5.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\005strawberry\\train\\304.png",
+    "distance": 6
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\005strawberry\\train\\57.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\005strawberry\\train\\338.png",
+    "distance": 8
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\005strawberry\\train\\59.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\005strawberry\\train\\102.png",
+    "distance": 2
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\005strawberry\\train\\64.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\005strawberry\\train\\136.png",
+    "distance": 4
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\005strawberry\\train\\71.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\005strawberry\\train\\118.png",
+    "distance": 2
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\005strawberry\\train\\83.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\005strawberry\\train\\390.png",
+    "distance": 6
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\005strawberry\\train\\94.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\005strawberry\\train\\446.png",
+    "distance": 8
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\005strawberry\\train\\97.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\005strawberry\\train\\321.png",
+    "distance": 4
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\006banana\\train\\145.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\006banana\\train\\134.png",
+    "distance": 4
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\006banana\\train\\154.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\006banana\\train\\153.png",
+    "distance": 0
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\006banana\\train\\172.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\006banana\\train\\107.png",
+    "distance": 8
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\006banana\\train\\191.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\006banana\\train\\146.png",
+    "distance": 4
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\006banana\\train\\20.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\006banana\\train\\19.png",
+    "distance": 6
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\006banana\\train\\202.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\006banana\\train\\110.png",
+    "distance": 6
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\006banana\\train\\214.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\006banana\\train\\213.png",
+    "distance": 6
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\006banana\\train\\215.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\006banana\\train\\188.png",
+    "distance": 8
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\006banana\\train\\220.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\006banana\\train\\188.png",
+    "distance": 8
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\006banana\\train\\227.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\006banana\\train\\218.png",
+    "distance": 6
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\006banana\\train\\234.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\006banana\\train\\151.png",
+    "distance": 8
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\006banana\\train\\248.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\006banana\\train\\195.png",
+    "distance": 2
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\006banana\\train\\253.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\006banana\\train\\232.png",
+    "distance": 4
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\006banana\\train\\254.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\006banana\\train\\107.png",
+    "distance": 6
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\006banana\\train\\260.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\006banana\\train\\148.png",
+    "distance": 6
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\006banana\\train\\265.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\006banana\\train\\250.png",
+    "distance": 6
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\006banana\\train\\266.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\006banana\\train\\189.png",
+    "distance": 6
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\006banana\\train\\278.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\006banana\\train\\188.png",
+    "distance": 8
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\006banana\\train\\284.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\006banana\\train\\271.png",
+    "distance": 6
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\006banana\\train\\286.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\006banana\\train\\136.png",
+    "distance": 6
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\006banana\\train\\287.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\006banana\\train\\101.png",
+    "distance": 6
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\006banana\\train\\29.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\006banana\\train\\263.png",
+    "distance": 8
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\006banana\\train\\298.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\006banana\\train\\108.png",
+    "distance": 4
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\006banana\\train\\299.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\006banana\\train\\109.png",
+    "distance": 6
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\006banana\\train\\302.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\006banana\\train\\147.png",
+    "distance": 8
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\006banana\\train\\306.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\006banana\\train\\106.png",
+    "distance": 8
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\006banana\\train\\310.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\006banana\\train\\246.png",
+    "distance": 4
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\006banana\\train\\314.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\006banana\\train\\148.png",
+    "distance": 6
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\006banana\\train\\327.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\006banana\\train\\144.png",
+    "distance": 8
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\006banana\\train\\338.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\006banana\\train\\24.png",
+    "distance": 8
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\006banana\\train\\339.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\006banana\\train\\168.png",
+    "distance": 8
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\006banana\\train\\351.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\006banana\\train\\342.png",
+    "distance": 6
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\006banana\\train\\352.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\006banana\\train\\211.png",
+    "distance": 6
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\006banana\\train\\355.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\006banana\\train\\271.png",
+    "distance": 6
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\006banana\\train\\362.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\006banana\\train\\13.png",
+    "distance": 4
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\006banana\\train\\364.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\006banana\\train\\270.png",
+    "distance": 4
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\006banana\\train\\365.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\006banana\\train\\250.png",
+    "distance": 6
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\006banana\\train\\368.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\006banana\\train\\270.png",
+    "distance": 8
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\006banana\\train\\370.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\006banana\\train\\189.png",
+    "distance": 6
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\006banana\\train\\374.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\006banana\\train\\107.png",
+    "distance": 4
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\006banana\\train\\376.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\006banana\\train\\213.png",
+    "distance": 6
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\006banana\\train\\377.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\006banana\\train\\185.png",
+    "distance": 4
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\006banana\\train\\38.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\006banana\\train\\195.png",
+    "distance": 8
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\006banana\\train\\387.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\006banana\\train\\294.png",
+    "distance": 6
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\006banana\\train\\389.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\006banana\\train\\188.png",
+    "distance": 8
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\006banana\\train\\392.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\006banana\\train\\233.png",
+    "distance": 8
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\006banana\\train\\43.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\006banana\\train\\290.png",
+    "distance": 6
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\006banana\\train\\46.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\006banana\\train\\367.png",
+    "distance": 2
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\006banana\\train\\77.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\006banana\\train\\386.png",
+    "distance": 6
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\006banana\\train\\82.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\006banana\\train\\203.png",
+    "distance": 4
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\006banana\\train\\84.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\006banana\\train\\213.png",
+    "distance": 8
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\006banana\\train\\85.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\006banana\\train\\195.png",
+    "distance": 6
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\006banana\\train\\87.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\006banana\\train\\269.png",
+    "distance": 8
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\006banana\\train\\90.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\006banana\\train\\112.png",
+    "distance": 4
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\006banana\\train\\91.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\006banana\\train\\40.png",
+    "distance": 6
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\006banana\\train\\95.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\006banana\\train\\271.png",
+    "distance": 8
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\006banana\\train\\96.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\006banana\\train\\136.png",
+    "distance": 4
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\006banana\\train\\97.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\006banana\\train\\212.png",
+    "distance": 8
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\007watermelon\\train\\137.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\007watermelon\\train\\100.png",
+    "distance": 8
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\007watermelon\\train\\150.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\007watermelon\\train\\105.png",
+    "distance": 8
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\007watermelon\\train\\169.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\007watermelon\\train\\167.png",
+    "distance": 8
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\007watermelon\\train\\171.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\007watermelon\\train\\103.png",
+    "distance": 8
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\007watermelon\\train\\180.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\007watermelon\\train\\124.png",
+    "distance": 8
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\007watermelon\\train\\198.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\007watermelon\\train\\101.png",
+    "distance": 8
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\007watermelon\\train\\200.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\007watermelon\\train\\152.png",
+    "distance": 6
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\007watermelon\\train\\201.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\007watermelon\\train\\151.png",
+    "distance": 8
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\007watermelon\\train\\204.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\007watermelon\\train\\103.png",
+    "distance": 8
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\007watermelon\\train\\205.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\007watermelon\\train\\160.png",
+    "distance": 6
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\007watermelon\\train\\206.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\007watermelon\\train\\189.png",
+    "distance": 6
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\007watermelon\\train\\209.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\007watermelon\\train\\136.png",
+    "distance": 6
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\007watermelon\\train\\229.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\007watermelon\\train\\146.png",
+    "distance": 8
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\007watermelon\\train\\35.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\007watermelon\\train\\161.png",
+    "distance": 6
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\007watermelon\\train\\46.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\007watermelon\\train\\166.png",
+    "distance": 8
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\007watermelon\\train\\62.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\007watermelon\\train\\17.png",
+    "distance": 4
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\007watermelon\\train\\7.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\007watermelon\\train\\6.png",
+    "distance": 8
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\007watermelon\\train\\72.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\007watermelon\\train\\14.png",
+    "distance": 8
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\007watermelon\\train\\74.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\007watermelon\\train\\134.png",
+    "distance": 2
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\007watermelon\\train\\75.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\007watermelon\\train\\165.png",
+    "distance": 8
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\007watermelon\\train\\77.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\007watermelon\\train\\136.png",
+    "distance": 6
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\007watermelon\\train\\85.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\007watermelon\\train\\84.png",
+    "distance": 8
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\007watermelon\\train\\87.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\007watermelon\\train\\136.png",
+    "distance": 8
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\007watermelon\\train\\88.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\007watermelon\\train\\165.png",
+    "distance": 6
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\007watermelon\\train\\89.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\007watermelon\\train\\172.png",
+    "distance": 8
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\007watermelon\\train\\9.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\007watermelon\\train\\177.png",
+    "distance": 8
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\007watermelon\\train\\91.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\007watermelon\\train\\61.png",
+    "distance": 4
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\007watermelon\\train\\98.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\007watermelon\\train\\202.png",
+    "distance": 6
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\009peach\\train\\13.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\009peach\\train\\10.png",
+    "distance": 2
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\009peach\\train\\157.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\009peach\\train\\135.png",
+    "distance": 6
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\009peach\\train\\180.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\009peach\\train\\161.png",
+    "distance": 2
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\009peach\\train\\19.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\009peach\\train\\146.png",
+    "distance": 2
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\009peach\\train\\194.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\009peach\\train\\185.png",
+    "distance": 4
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\009peach\\train\\196.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\009peach\\train\\161.png",
+    "distance": 8
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\009peach\\train\\21.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\009peach\\train\\135.png",
+    "distance": 6
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\009peach\\train\\210.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\009peach\\train\\164.png",
+    "distance": 2
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\009peach\\train\\24.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\009peach\\train\\12.png",
+    "distance": 2
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\009peach\\train\\256.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\009peach\\train\\204.png",
+    "distance": 8
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\009peach\\train\\270.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\009peach\\train\\161.png",
+    "distance": 6
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\009peach\\train\\28.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\009peach\\train\\268.png",
+    "distance": 6
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\009peach\\train\\295.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\009peach\\train\\291.png",
+    "distance": 4
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\009peach\\train\\30.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\009peach\\train\\276.png",
+    "distance": 8
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\009peach\\train\\300.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\009peach\\train\\193.png",
+    "distance": 2
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\009peach\\train\\301.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\009peach\\train\\276.png",
+    "distance": 4
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\009peach\\train\\31.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\009peach\\train\\291.png",
+    "distance": 8
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\009peach\\train\\312.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\009peach\\train\\277.png",
+    "distance": 8
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\009peach\\train\\316.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\009peach\\train\\116.png",
+    "distance": 4
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\009peach\\train\\323.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\009peach\\train\\291.png",
+    "distance": 0
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\009peach\\train\\328.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\009peach\\train\\291.png",
+    "distance": 8
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\009peach\\train\\340.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\009peach\\train\\100.png",
+    "distance": 6
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\009peach\\train\\388.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\009peach\\train\\382.png",
+    "distance": 8
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\009peach\\train\\4.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\009peach\\train\\1.png",
+    "distance": 8
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\009peach\\train\\40.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\009peach\\train\\382.png",
+    "distance": 6
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\009peach\\train\\41.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\009peach\\train\\383.png",
+    "distance": 4
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\009peach\\train\\417.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\009peach\\train\\12.png",
+    "distance": 8
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\009peach\\train\\428.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\009peach\\train\\268.png",
+    "distance": 6
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\009peach\\train\\430.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\009peach\\train\\296.png",
+    "distance": 8
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\009peach\\train\\433.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\009peach\\train\\165.png",
+    "distance": 6
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\009peach\\train\\434.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\009peach\\train\\135.png",
+    "distance": 8
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\009peach\\train\\5.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\009peach\\train\\112.png",
+    "distance": 4
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\009peach\\train\\54.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\009peach\\train\\415.png",
+    "distance": 2
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\009peach\\train\\55.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\009peach\\train\\416.png",
+    "distance": 8
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\009peach\\train\\58.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\009peach\\train\\419.png",
+    "distance": 2
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\009peach\\train\\6.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\009peach\\train\\334.png",
+    "distance": 4
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\009peach\\train\\62.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\009peach\\train\\425.png",
+    "distance": 8
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\009peach\\train\\64.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\009peach\\train\\427.png",
+    "distance": 6
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\009peach\\train\\65.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\009peach\\train\\268.png",
+    "distance": 4
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\009peach\\train\\7.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\009peach\\train\\380.png",
+    "distance": 4
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\009peach\\train\\73.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\009peach\\train\\225.png",
+    "distance": 8
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\009peach\\train\\74.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\009peach\\train\\161.png",
+    "distance": 6
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\009peach\\train\\8.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\009peach\\train\\277.png",
+    "distance": 8
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\009peach\\train\\80.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\009peach\\train\\117.png",
+    "distance": 8
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\009peach\\train\\85.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\009peach\\train\\245.png",
+    "distance": 8
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\009peach\\train\\91.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\009peach\\train\\161.png",
+    "distance": 6
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\009peach\\train\\95.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\009peach\\train\\71.png",
+    "distance": 8
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\009peach\\train\\99.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\009peach\\train\\215.png",
+    "distance": 2
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\010pomegranate\\train\\199.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\010pomegranate\\train\\161.png",
+    "distance": 8
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\010pomegranate\\train\\213.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\010pomegranate\\train\\203.png",
+    "distance": 6
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\010pomegranate\\train\\224.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\010pomegranate\\train\\222.png",
+    "distance": 8
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\010pomegranate\\train\\266.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\010pomegranate\\train\\245.png",
+    "distance": 8
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\010pomegranate\\train\\30.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\010pomegranate\\train\\154.png",
+    "distance": 6
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\010pomegranate\\train\\62.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\010pomegranate\\train\\22.png",
+    "distance": 6
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\010pomegranate\\train\\88.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\010pomegranate\\train\\212.png",
+    "distance": 4
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\010pomegranate\\train\\94.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\010pomegranate\\train\\63.png",
+    "distance": 4
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\010pomegranate\\train\\95.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\010pomegranate\\train\\164.png",
+    "distance": 4
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\010pomegranate\\train\\99.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\010pomegranate\\train\\32.png",
+    "distance": 8
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\012starfruit\\train\\128.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\012starfruit\\train\\125.png",
+    "distance": 4
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\012starfruit\\train\\37.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\012starfruit\\train\\3.png",
+    "distance": 2
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\012starfruit\\train\\59.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\012starfruit\\train\\3.png",
+    "distance": 0
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\012starfruit\\train\\61.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\012starfruit\\train\\3.png",
+    "distance": 4
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\012starfruit\\train\\64.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\012starfruit\\train\\55.png",
+    "distance": 6
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\012starfruit\\train\\66.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\012starfruit\\train\\3.png",
+    "distance": 0
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\012starfruit\\train\\77.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\012starfruit\\train\\101.png",
+    "distance": 8
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\012starfruit\\train\\78.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\012starfruit\\train\\30.png",
+    "distance": 8
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\012starfruit\\train\\98.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\012starfruit\\train\\108.png",
+    "distance": 0
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\014lemon\\train\\118.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\014lemon\\train\\1.png",
+    "distance": 6
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\014lemon\\train\\122.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\014lemon\\train\\100.png",
+    "distance": 6
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\014lemon\\train\\134.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\014lemon\\train\\1.png",
+    "distance": 8
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\014lemon\\train\\2.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\014lemon\\train\\127.png",
+    "distance": 8
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\014lemon\\train\\36.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\014lemon\\train\\120.png",
+    "distance": 2
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\014lemon\\train\\38.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\014lemon\\train\\121.png",
+    "distance": 4
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\014lemon\\train\\44.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\014lemon\\train\\40.png",
+    "distance": 4
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\014lemon\\train\\45.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\014lemon\\train\\100.png",
+    "distance": 8
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\014lemon\\train\\54.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\014lemon\\train\\132.png",
+    "distance": 8
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\014lemon\\train\\59.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\014lemon\\train\\105.png",
+    "distance": 4
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\014lemon\\train\\73.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\014lemon\\train\\105.png",
+    "distance": 6
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\014lemon\\train\\8.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\014lemon\\train\\120.png",
+    "distance": 4
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\014lemon\\train\\83.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\014lemon\\train\\113.png",
+    "distance": 0
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\014lemon\\train\\84.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\014lemon\\train\\67.png",
+    "distance": 4
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\014lemon\\train\\9.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\014lemon\\train\\61.png",
+    "distance": 6
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\015pomelo\\train\\37.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\015pomelo\\train\\36.png",
+    "distance": 8
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\015pomelo\\train\\46.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\015pomelo\\train\\17.png",
+    "distance": 6
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\015pomelo\\train\\50.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\015pomelo\\train\\115.png",
+    "distance": 0
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\015pomelo\\train\\52.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\015pomelo\\train\\101.png",
+    "distance": 8
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\015pomelo\\train\\65.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\015pomelo\\train\\13.png",
+    "distance": 6
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\015pomelo\\train\\67.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\015pomelo\\train\\10.png",
+    "distance": 2
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\015pomelo\\train\\7.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\015pomelo\\train\\58.png",
+    "distance": 2
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\015pomelo\\train\\77.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\015pomelo\\train\\1.png",
+    "distance": 8
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\015pomelo\\train\\80.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\015pomelo\\train\\73.png",
+    "distance": 4
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\015pomelo\\train\\9.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\015pomelo\\train\\71.png",
+    "distance": 4
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\015pomelo\\train\\96.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\015pomelo\\train\\117.png",
+    "distance": 6
+  },
+  {
+    "duplicate": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\015pomelo\\train\\98.png",
+    "similar_to": "C:\\Colorblind_correction\\research\\datasets\\raw\\fruits\\015pomelo\\train\\13.png",
+    "distance": 4
+  }
+]

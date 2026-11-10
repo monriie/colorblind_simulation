@@ -1,0 +1,17 @@
+{
+  "source_image_count": 3604,
+  "condition_count": 8,
+  "expected_simulation_count": 28832,
+  "successful_simulation_count": 28832,
+  "error_count": 0,
+  "cvd_families": [
+    "protan",
+    "deutan"
+  ],
+  "severities": [
+    0.25,
+    0.5,
+    0.75,
+    1.0
+  ]
+}

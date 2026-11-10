@@ -1,0 +1,27 @@
+{
+  "source_image_count": 782,
+  "selected_image_family_count": 912,
+  "source_counts_by_family": {
+    "deutan": 456,
+    "protan": 456
+  },
+  "selection_manifest_sha256": "8dbf5996e770ec92b4bcb1dffd53209508986a3de94a4813dc24bd884db2cd54",
+  "severity_count_per_selected_family": 4,
+  "expected_simulation_count": 3648,
+  "successful_simulation_count": 3648,
+  "error_count": 0,
+  "cvd_families": [
+    "protan",
+    "deutan"
+  ],
+  "severities": [
+    0.25,
+    0.5,
+    0.75,
+    1.0
+  ],
+  "selection_groups": [
+    "confusion_line_deutan",
+    "confusion_line_protan"
+  ]
+}

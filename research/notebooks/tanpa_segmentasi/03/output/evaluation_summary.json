@@ -1,0 +1,16 @@
+{
+  "total_evaluations": 3648,
+  "global_mean_delta_e00": 9.024393853765835,
+  "global_std_delta_e00": 6.0330708014146195,
+  "metric_region": "whole_image_including_background",
+  "selection_manifest_sha256": "8dbf5996e770ec92b4bcb1dffd53209508986a3de94a4813dc24bd884db2cd54",
+  "comparison_scope": "Different selected cohorts; paired comparison is exported separately",
+  "global_min_delta_e00": 0.3131646056697076,
+  "global_max_delta_e00": 33.10666181139131,
+  "levels_exported": [
+    "Level 1: evaluation_individual.csv (per individu)",
+    "Level 2: evaluation_class_summary.csv (per kelas)",
+    "Level 3: evaluation_selection_summary.csv (per kelompok seleksi)",
+    "Level 4: evaluation_group_summary.csv / evaluation_global_summary.csv (global)"
+  ]
+}

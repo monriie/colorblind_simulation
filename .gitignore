@@ -1,0 +1,88 @@
+# Secrets and local environment configuration
+.env
+.env.local
+.env.*
+!.env.example
+!**/.env.example
+
+# Python virtual environments
+.venv/
+venv/
+**/venv/
+backend/venv_python_mismatch_backup/
+
+# Python cache, test, and coverage artifacts
+__pycache__/
+**/__pycache__/
+*.py[cod]
+*.pyd
+.pytest_cache/
+**/.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+.coverage.*
+htmlcov/
+
+# Jupyter runtime artifacts
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+
+# Node.js dependencies and frontend build artifacts
+node_modules/
+**/node_modules/
+dist/
+**/dist/
+.vite/
+**/.vite/
+coverage/
+**/coverage/
+*.tsbuildinfo
+.eslintcache
+**/.eslintcache
+
+# Raw, external, and processed datasets
+/dataset_buah_baru/
+/research/datasets/
+**/datasets/
+# Generated image datasets across active and archived experiments
+/research/notebooks/**/output/**/confusion_line_filtered/
+/research/notebooks/**/output/**/simulated_images/
+/research/notebooks/**/output/**/simulated/
+/research/notebooks/**/output/**/corrected/
+/research/notebooks/**/output/**/quiz_images/
+# Keep CSV/JSON reports, analysis Markdown, notebooks, and summary figures eligible.
+
+# Generated reports and temporary data artifacts
+*.log
+*.tmp
+*.temp
+out.txt
+nb*_code_utf8.txt
+
+# Local project documentation excluded by request
+/PRD_Sistem_Koreksi_Warna_CVD.md
+/scripts/
+/tmp/
+/.nb03_patch.py
+PRD*.md
+*KONTEKS*.md
+*CONTEXT*.md
+*konteks*.md
+*context*.md
+AGENTS*.md
+CLAUDE*.md
+GEMINI*.md
+
+# Local agent instructions and tooling
+.agents/
+/.codex/
+
+# Editors and operating systems
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+Desktop.ini

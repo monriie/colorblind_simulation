@@ -1,0 +1,7 @@
+{
+  "evaluated_pair_count": 28832,
+  "overall_mean_delta_e00": 9.380115644077428,
+  "ciede2000_conformance_passed": true,
+  "ciede2000_conformance_case_count": 34,
+  "ciede2000_conformance_tolerance": 5e-05
+}

@@ -1,0 +1,596 @@
+{
+  "notebook": "NB01_dataset_preparation",
+  "method_version": "dataset-preparation-1.5",
+  "formula_source": {
+    "perceptual_hash": "DCT-based pHash with Hamming distance; ImageHash implementation",
+    "clustering": "Lloyd K-Means objective with k-means++ initialization",
+    "kmeans_initialization": "Arthur and Vassilvitskii (2007), k-means++",
+    "k_selection": "Rousseeuw (1987), silhouette coefficient",
+    "circular_mean": "Mardia and Jupp (1999), Directional Statistics",
+    "hue_audit": "Pandey (2024), Otsu followed by maximum-entropy transition thresholds"
+  },
+  "research_adaptation": {
+    "simulation_domain": "prespecified mapping of fruit source classes to red_orange or green_yellow",
+    "colour_clustering": "K-Means on standard OpenCV float CIELAB coordinates",
+    "hue_measurement": "dominant-cluster circular mean HSV hue per image"
+  },
+  "implementation_decision": {
+    "phash_threshold": 8,
+    "phash_threshold_role": "dataset parameter; sensitivity is reported without changing the pHash formula",
+    "hue_range_compatibility_alias": "same value as simulation_domain for downstream notebooks",
+    "hue_audit_policy": "audit only; transition and cross-domain records remain in the manifest",
+    "undersampling": false
+  },
+  "parameters": {
+    "random_seed": 42,
+    "phash_threshold": 8,
+    "phash_sensitivity_thresholds": [
+      0,
+      2,
+      4,
+      6,
+      8
+    ],
+    "target_size": [
+      512,
+      512
+    ],
+    "cluster_size": 224,
+    "k_range": [
+      2,
+      7
+    ],
+    "kmeans_init": "k-means++",
+    "kmeans_n_init": 10,
+    "kmeans_algorithm": "lloyd",
+    "kmeans_max_iter": 300,
+    "kmeans_tolerance": 0.0001,
+    "k_sample_images": 150,
+    "k_pixels_per_image": 500,
+    "silhouette_sample": 5000,
+    "image_cluster_pixels": 8000,
+    "saturation_min": 0.25,
+    "value_range": [
+      0.2,
+      0.95
+    ],
+    "hue_audit_boundaries_deg": [
+      24.916622380188393,
+      42.638658411028814
+    ],
+    "domain_method_version": "dataset-audit-1.5"
+  },
+  "sample_counts": {
+    "raw_candidates": 3513,
+    "after_dedup": 3190
+  },
+  "record_counts": {
+    "report": 3190,
+    "domain_audit": 553,
+    "errors": 0,
+    "progress_checkpoints": 7,
+    "duplicates_removed": 323,
+    "dedup_sensitivity": 60,
+    "input_errors_audited": 0
+  },
+  "statistics": {
+    "simulation_distribution": {
+      "red_orange": 2040,
+      "green_yellow": 1150
+    },
+    "hue_audit_distribution": {
+      "red_orange": 1629,
+      "transition": 448,
+      "green_yellow": 1113
+    },
+    "hue_audit_status": {
+      "consistent": 2637,
+      "transition": 448,
+      "cross_domain": 105
+    },
+    "domain_assignment_audit": [
+      {
+        "simulation_domain": "green_yellow",
+        "hue_audit_region": "green_yellow",
+        "hue_audit_status": "consistent",
+        "records": 1015
+      },
+      {
+        "simulation_domain": "green_yellow",
+        "hue_audit_region": "red_orange",
+        "hue_audit_status": "cross_domain",
+        "records": 7
+      },
+      {
+        "simulation_domain": "green_yellow",
+        "hue_audit_region": "transition",
+        "hue_audit_status": "transition",
+        "records": 128
+      },
+      {
+        "simulation_domain": "red_orange",
+        "hue_audit_region": "green_yellow",
+        "hue_audit_status": "cross_domain",
+        "records": 98
+      },
+      {
+        "simulation_domain": "red_orange",
+        "hue_audit_region": "red_orange",
+        "hue_audit_status": "consistent",
+        "records": 1622
+      },
+      {
+        "simulation_domain": "red_orange",
+        "hue_audit_region": "transition",
+        "hue_audit_status": "transition",
+        "records": 320
+      }
+    ],
+    "deduplication_sensitivity": [
+      {
+        "source_class": "001apple",
+        "phash_threshold": 0,
+        "retained_records": 407,
+        "removed_records": 1,
+        "removed_fraction": 0.0024509803921568627
+      },
+      {
+        "source_class": "001apple",
+        "phash_threshold": 2,
+        "retained_records": 400,
+        "removed_records": 8,
+        "removed_fraction": 0.0196078431372549
+      },
+      {
+        "source_class": "001apple",
+        "phash_threshold": 4,
+        "retained_records": 388,
+        "removed_records": 20,
+        "removed_fraction": 0.049019607843137254
+      },
+      {
+        "source_class": "001apple",
+        "phash_threshold": 6,
+        "retained_records": 376,
+        "removed_records": 32,
+        "removed_fraction": 0.0784313725490196
+      },
+      {
+        "source_class": "001apple",
+        "phash_threshold": 8,
+        "retained_records": 362,
+        "removed_records": 46,
+        "removed_fraction": 0.11274509803921569
+      },
+      {
+        "source_class": "002orange",
+        "phash_threshold": 0,
+        "retained_records": 430,
+        "removed_records": 1,
+        "removed_fraction": 0.002320185614849188
+      },
+      {
+        "source_class": "002orange",
+        "phash_threshold": 2,
+        "retained_records": 430,
+        "removed_records": 1,
+        "removed_fraction": 0.002320185614849188
+      },
+      {
+        "source_class": "002orange",
+        "phash_threshold": 4,
+        "retained_records": 423,
+        "removed_records": 8,
+        "removed_fraction": 0.018561484918793503
+      },
+      {
+        "source_class": "002orange",
+        "phash_threshold": 6,
+        "retained_records": 419,
+        "removed_records": 12,
+        "removed_fraction": 0.027842227378190254
+      },
+      {
+        "source_class": "002orange",
+        "phash_threshold": 8,
+        "retained_records": 411,
+        "removed_records": 20,
+        "removed_fraction": 0.04640371229698376
+      },
+      {
+        "source_class": "003pear",
+        "phash_threshold": 0,
+        "retained_records": 261,
+        "removed_records": 0,
+        "removed_fraction": 0.0
+      },
+      {
+        "source_class": "003pear",
+        "phash_threshold": 2,
+        "retained_records": 260,
+        "removed_records": 1,
+        "removed_fraction": 0.0038314176245210726
+      },
+      {
+        "source_class": "003pear",
+        "phash_threshold": 4,
+        "retained_records": 256,
+        "removed_records": 5,
+        "removed_fraction": 0.019157088122605363
+      },
+      {
+        "source_class": "003pear",
+        "phash_threshold": 6,
+        "retained_records": 248,
+        "removed_records": 13,
+        "removed_fraction": 0.04980842911877394
+      },
+      {
+        "source_class": "003pear",
+        "phash_threshold": 8,
+        "retained_records": 235,
+        "removed_records": 26,
+        "removed_fraction": 0.09961685823754789
+      },
+      {
+        "source_class": "004tomato",
+        "phash_threshold": 0,
+        "retained_records": 411,
+        "removed_records": 0,
+        "removed_fraction": 0.0
+      },
+      {
+        "source_class": "004tomato",
+        "phash_threshold": 2,
+        "retained_records": 410,
+        "removed_records": 1,
+        "removed_fraction": 0.0024330900243309003
+      },
+      {
+        "source_class": "004tomato",
+        "phash_threshold": 4,
+        "retained_records": 404,
+        "removed_records": 7,
+        "removed_fraction": 0.0170316301703163
+      },
+      {
+        "source_class": "004tomato",
+        "phash_threshold": 6,
+        "retained_records": 399,
+        "removed_records": 12,
+        "removed_fraction": 0.029197080291970802
+      },
+      {
+        "source_class": "004tomato",
+        "phash_threshold": 8,
+        "retained_records": 387,
+        "removed_records": 24,
+        "removed_fraction": 0.058394160583941604
+      },
+      {
+        "source_class": "005strawberry",
+        "phash_threshold": 0,
+        "retained_records": 442,
+        "removed_records": 0,
+        "removed_fraction": 0.0
+      },
+      {
+        "source_class": "005strawberry",
+        "phash_threshold": 2,
+        "retained_records": 436,
+        "removed_records": 6,
+        "removed_fraction": 0.013574660633484163
+      },
+      {
+        "source_class": "005strawberry",
+        "phash_threshold": 4,
+        "retained_records": 433,
+        "removed_records": 9,
+        "removed_fraction": 0.020361990950226245
+      },
+      {
+        "source_class": "005strawberry",
+        "phash_threshold": 6,
+        "retained_records": 425,
+        "removed_records": 17,
+        "removed_fraction": 0.038461538461538464
+      },
+      {
+        "source_class": "005strawberry",
+        "phash_threshold": 8,
+        "retained_records": 415,
+        "removed_records": 27,
+        "removed_fraction": 0.06108597285067873
+      },
+      {
+        "source_class": "006banana",
+        "phash_threshold": 0,
+        "retained_records": 383,
+        "removed_records": 3,
+        "removed_fraction": 0.007772020725388601
+      },
+      {
+        "source_class": "006banana",
+        "phash_threshold": 2,
+        "retained_records": 380,
+        "removed_records": 6,
+        "removed_fraction": 0.015544041450777202
+      },
+      {
+        "source_class": "006banana",
+        "phash_threshold": 4,
+        "retained_records": 364,
+        "removed_records": 22,
+        "removed_fraction": 0.05699481865284974
+      },
+      {
+        "source_class": "006banana",
+        "phash_threshold": 6,
+        "retained_records": 345,
+        "removed_records": 41,
+        "removed_fraction": 0.10621761658031088
+      },
+      {
+        "source_class": "006banana",
+        "phash_threshold": 8,
+        "retained_records": 328,
+        "removed_records": 58,
+        "removed_fraction": 0.15025906735751296
+      },
+      {
+        "source_class": "007watermelon",
+        "phash_threshold": 0,
+        "retained_records": 238,
+        "removed_records": 1,
+        "removed_fraction": 0.0041841004184100415
+      },
+      {
+        "source_class": "007watermelon",
+        "phash_threshold": 2,
+        "retained_records": 235,
+        "removed_records": 4,
+        "removed_fraction": 0.016736401673640166
+      },
+      {
+        "source_class": "007watermelon",
+        "phash_threshold": 4,
+        "retained_records": 233,
+        "removed_records": 6,
+        "removed_fraction": 0.02510460251046025
+      },
+      {
+        "source_class": "007watermelon",
+        "phash_threshold": 6,
+        "retained_records": 225,
+        "removed_records": 14,
+        "removed_fraction": 0.058577405857740586
+      },
+      {
+        "source_class": "007watermelon",
+        "phash_threshold": 8,
+        "retained_records": 211,
+        "removed_records": 28,
+        "removed_fraction": 0.11715481171548117
+      },
+      {
+        "source_class": "009peach",
+        "phash_threshold": 0,
+        "retained_records": 317,
+        "removed_records": 1,
+        "removed_fraction": 0.0031446540880503146
+      },
+      {
+        "source_class": "009peach",
+        "phash_threshold": 2,
+        "retained_records": 304,
+        "removed_records": 14,
+        "removed_fraction": 0.0440251572327044
+      },
+      {
+        "source_class": "009peach",
+        "phash_threshold": 4,
+        "retained_records": 292,
+        "removed_records": 26,
+        "removed_fraction": 0.08176100628930817
+      },
+      {
+        "source_class": "009peach",
+        "phash_threshold": 6,
+        "retained_records": 283,
+        "removed_records": 35,
+        "removed_fraction": 0.11006289308176101
+      },
+      {
+        "source_class": "009peach",
+        "phash_threshold": 8,
+        "retained_records": 270,
+        "removed_records": 48,
+        "removed_fraction": 0.1509433962264151
+      },
+      {
+        "source_class": "010pomegranate",
+        "phash_threshold": 0,
+        "retained_records": 205,
+        "removed_records": 0,
+        "removed_fraction": 0.0
+      },
+      {
+        "source_class": "010pomegranate",
+        "phash_threshold": 2,
+        "retained_records": 205,
+        "removed_records": 0,
+        "removed_fraction": 0.0
+      },
+      {
+        "source_class": "010pomegranate",
+        "phash_threshold": 4,
+        "retained_records": 202,
+        "removed_records": 3,
+        "removed_fraction": 0.014634146341463415
+      },
+      {
+        "source_class": "010pomegranate",
+        "phash_threshold": 6,
+        "retained_records": 199,
+        "removed_records": 6,
+        "removed_fraction": 0.02926829268292683
+      },
+      {
+        "source_class": "010pomegranate",
+        "phash_threshold": 8,
+        "retained_records": 195,
+        "removed_records": 10,
+        "removed_fraction": 0.04878048780487805
+      },
+      {
+        "source_class": "012starfruit",
+        "phash_threshold": 0,
+        "retained_records": 149,
+        "removed_records": 3,
+        "removed_fraction": 0.019736842105263157
+      },
+      {
+        "source_class": "012starfruit",
+        "phash_threshold": 2,
+        "retained_records": 148,
+        "removed_records": 4,
+        "removed_fraction": 0.02631578947368421
+      },
+      {
+        "source_class": "012starfruit",
+        "phash_threshold": 4,
+        "retained_records": 146,
+        "removed_records": 6,
+        "removed_fraction": 0.039473684210526314
+      },
+      {
+        "source_class": "012starfruit",
+        "phash_threshold": 6,
+        "retained_records": 145,
+        "removed_records": 7,
+        "removed_fraction": 0.046052631578947366
+      },
+      {
+        "source_class": "012starfruit",
+        "phash_threshold": 8,
+        "retained_records": 143,
+        "removed_records": 9,
+        "removed_fraction": 0.05921052631578947
+      },
+      {
+        "source_class": "014lemon",
+        "phash_threshold": 0,
+        "retained_records": 143,
+        "removed_records": 1,
+        "removed_fraction": 0.006944444444444444
+      },
+      {
+        "source_class": "014lemon",
+        "phash_threshold": 2,
+        "retained_records": 141,
+        "removed_records": 3,
+        "removed_fraction": 0.020833333333333332
+      },
+      {
+        "source_class": "014lemon",
+        "phash_threshold": 4,
+        "retained_records": 136,
+        "removed_records": 8,
+        "removed_fraction": 0.05555555555555555
+      },
+      {
+        "source_class": "014lemon",
+        "phash_threshold": 6,
+        "retained_records": 131,
+        "removed_records": 13,
+        "removed_fraction": 0.09027777777777778
+      },
+      {
+        "source_class": "014lemon",
+        "phash_threshold": 8,
+        "retained_records": 129,
+        "removed_records": 15,
+        "removed_fraction": 0.10416666666666667
+      },
+      {
+        "source_class": "015pomelo",
+        "phash_threshold": 0,
+        "retained_records": 115,
+        "removed_records": 1,
+        "removed_fraction": 0.008620689655172414
+      },
+      {
+        "source_class": "015pomelo",
+        "phash_threshold": 2,
+        "retained_records": 113,
+        "removed_records": 3,
+        "removed_fraction": 0.02586206896551724
+      },
+      {
+        "source_class": "015pomelo",
+        "phash_threshold": 4,
+        "retained_records": 110,
+        "removed_records": 6,
+        "removed_fraction": 0.05172413793103448
+      },
+      {
+        "source_class": "015pomelo",
+        "phash_threshold": 6,
+        "retained_records": 107,
+        "removed_records": 9,
+        "removed_fraction": 0.07758620689655173
+      },
+      {
+        "source_class": "015pomelo",
+        "phash_threshold": 8,
+        "retained_records": 104,
+        "removed_records": 12,
+        "removed_fraction": 0.10344827586206896
+      }
+    ],
+    "median_processing_seconds": 0.094550599984359,
+    "input_error_audit": [],
+    "current_error_audit": []
+  },
+  "output_contract": {
+    "balanced": false,
+    "manifest_is_source_of_truth": true,
+    "simulation_assignment": "source_class_to_source_domain",
+    "hue_audit_is_independent": true,
+    "all_successful_records_in_manifest": true,
+    "composite_key": [
+      "subset",
+      "source_class",
+      "source_file_name"
+    ],
+    "progress_is_checkpoint_log": true,
+    "progress_composite_key": [
+      "method_version",
+      "processed_records"
+    ]
+  },
+  "outputs": {
+    "image_dir": "C:\\Colorblind_correction\\research\\datasets\\processed\\fruit_domain",
+    "report_csv": "C:\\Colorblind_correction\\research\\notebooks\\01\\output\\dataset_preparation_report.csv",
+    "progress_csv": "C:\\Colorblind_correction\\research\\notebooks\\01\\output\\dataset_preparation_progress.csv",
+    "domain_audit_csv": "C:\\Colorblind_correction\\research\\notebooks\\01\\output\\dataset_preparation_domain_audit.csv",
+    "error_csv": "C:\\Colorblind_correction\\research\\notebooks\\01\\output\\dataset_preparation_errors.csv",
+    "input_error_audit_csv": "C:\\Colorblind_correction\\research\\notebooks\\01\\output\\dataset_preparation_error_input_audit.csv",
+    "error_audit_csv": "C:\\Colorblind_correction\\research\\notebooks\\01\\output\\dataset_preparation_error_audit.csv",
+    "deduplication_csv": "C:\\Colorblind_correction\\research\\notebooks\\01\\output\\deduplication_report.csv",
+    "deduplication_sensitivity_csv": "C:\\Colorblind_correction\\research\\notebooks\\01\\output\\deduplication_sensitivity_report.csv",
+    "k_selection_csv": "C:\\Colorblind_correction\\research\\notebooks\\01\\output\\k_selection_report.csv",
+    "figure": "C:\\Colorblind_correction\\research\\notebooks\\01\\output\\figures\\dataset_preparation_audit.png"
+  },
+  "software_versions": {
+    "python": "3.13.7",
+    "opencv": "5.0.0",
+    "numpy": "2.2.5",
+    "pandas": "3.0.2",
+    "scipy": "1.15.3",
+    "scikit_learn": "1.8.0",
+    "pillow": "11.2.1",
+    "imagehash": "4.3.2"
+  },
+  "created_at": "2026-09-03T05:50:24+00:00"
+}

@@ -1,0 +1,92 @@
+{
+  "subset": "train",
+  "excluded_class": "000neg",
+  "raw_class_count": 19,
+  "raw_image_count": 4870,
+  "deduplicated_resized_count": 4692,
+  "image_analysis_success_count": 4692,
+  "analysis_error_count": 0,
+  "phash_threshold": 4,
+  "output_size": 512,
+  "kmeans_clusters": 4,
+  "color_samples_per_image": 1000,
+  "copunctal_points_cie1931_xy": {
+    "protan": [
+      0.763,
+      0.236
+    ],
+    "deutan": [
+      1.4,
+      -0.4
+    ]
+  },
+  "otsu_thresholds": {
+    "protan": 0.06644655464006836,
+    "deutan": 0.07713304428983501
+  },
+  "selected_classes_by_cvd": {
+    "protan": [
+      "001apple",
+      "004tomato",
+      "005strawberry",
+      "007watermelon",
+      "008kiwi",
+      "009peach",
+      "010pomegranate",
+      "013grape",
+      "018hami"
+    ],
+    "deutan": [
+      "001apple",
+      "007watermelon",
+      "008kiwi",
+      "009peach",
+      "010pomegranate",
+      "013grape",
+      "015pomelo",
+      "018hami"
+    ]
+  },
+  "undersampling": [
+    {
+      "cvd_family": "protan",
+      "otsu_image_distance_threshold": 0.06644655464006836,
+      "classes_selected": 9,
+      "class_quota_after_filter": 68,
+      "image_count_after_undersampling": 612,
+      "selected_classes": "001apple,004tomato,005strawberry,007watermelon,008kiwi,009peach,010pomegranate,013grape,018hami",
+      "family_balance_quota": 456,
+      "image_count_after_family_balance": 456,
+      "class_counts_after_family_balance": "{\"001apple\": 46, \"004tomato\": 52, \"005strawberry\": 51, \"007watermelon\": 47, \"008kiwi\": 54, \"009peach\": 51, \"010pomegranate\": 52, \"013grape\": 50, \"018hami\": 53}"
+    },
+    {
+      "cvd_family": "deutan",
+      "otsu_image_distance_threshold": 0.07713304428983501,
+      "classes_selected": 8,
+      "class_quota_after_filter": 57,
+      "image_count_after_undersampling": 456,
+      "selected_classes": "001apple,007watermelon,008kiwi,009peach,010pomegranate,013grape,015pomelo,018hami",
+      "family_balance_quota": 456,
+      "image_count_after_family_balance": 456,
+      "class_counts_after_family_balance": "{\"001apple\": 57, \"007watermelon\": 57, \"008kiwi\": 57, \"009peach\": 57, \"010pomegranate\": 57, \"013grape\": 57, \"015pomelo\": 57, \"018hami\": 57}"
+    }
+  ],
+  "family_balance_quota": 456,
+  "final_cvd_family_counts": {
+    "protan": 456,
+    "deutan": 456
+  },
+  "final_manifest_image_count": 782,
+  "generated_files": [
+    "dataset_preparation_report.csv",
+    "manifest.csv",
+    "deduplication_report.csv",
+    "dataset_preparation_errors.csv",
+    "confusion_line_image_analysis.csv",
+    "confusion_line_class_summary.csv",
+    "confusion_line_selected_by_cvd.csv",
+    "confusion_line_filter_summary.csv",
+    "confusion_line_filtered/protan/",
+    "confusion_line_filtered/deutan/"
+  ]
+}

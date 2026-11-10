@@ -1,0 +1,14 @@
+# Local datasets and generated image collections; paths are relative to research.
+/datasets/
+/notebooks/**/output/**/confusion_line_filtered/
+/notebooks/**/output/**/simulated_images/
+/notebooks/**/output/**/simulated/
+/notebooks/**/output/**/corrected/
+/notebooks/**/output/**/quiz_images/
+
+# Notebook runtime files
+.ipynb_checkpoints/
+__pycache__/
+
+# CSV/JSON summaries, Markdown, notebooks, and analysis figures remain eligible.
+# Ignore rules do not remove files already tracked by Git.

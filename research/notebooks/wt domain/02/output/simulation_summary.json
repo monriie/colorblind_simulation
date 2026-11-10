@@ -1,0 +1,345 @@
+{
+  "notebook": "NB02_simulation",
+  "method_version": "machado-2009-matrix-1.1",
+  "formula_source": {
+    "simulation": "Machado, Oliveira, and Fernandes (2009), DOI 10.1109/TVCG.2009.113",
+    "matrices": "published severity matrices from the authors' supplementary dataset",
+    "interpolation": "piecewise linear interpolation between adjacent Machado matrices, as implemented by Colour Science matrix_cvd_Machado2009",
+    "transfer": "sRGB IEC 61966-2-1"
+  },
+  "research_adaptation": {
+    "cvd_scope": "protan and deutan families",
+    "severity_levels": [
+      0.25,
+      0.5,
+      0.75,
+      1.0
+    ],
+    "dataset_scope": "all NB01 manifest records without balancing or undersampling"
+  },
+  "implementation_decision": {
+    "image_format": "PNG lossless",
+    "resume_storage": "simulation_checkpoint.csv",
+    "progress_storage": "simulation_progress.csv checkpoint log",
+    "diagnostic_role": "mean RGB change and gamut clipping are engineering sanity-checks, not validation metrics"
+  },
+  "parameters": {
+    "cvd_families": [
+      "protan",
+      "deutan"
+    ],
+    "severities": [
+      0.25,
+      0.5,
+      0.75,
+      1.0
+    ],
+    "image_format": "PNG",
+    "report_interval": 1000,
+    "machado_core_version": "machado-2009-core-1.1"
+  },
+  "sample_counts": {
+    "source_images": 3190,
+    "source_distribution": {
+      "green_yellow": 1150,
+      "red_orange": 2040
+    }
+  },
+  "record_counts": {
+    "expected": 25520,
+    "success": 25520,
+    "errors": 0,
+    "checkpoint_records": 25520,
+    "progress_checkpoints": 26
+  },
+  "statistics": {
+    "records_by_group": [
+      {
+        "cvd_family": "deutan",
+        "severity": 0.25,
+        "hue_range": "green_yellow",
+        "records": 1150
+      },
+      {
+        "cvd_family": "deutan",
+        "severity": 0.25,
+        "hue_range": "red_orange",
+        "records": 2040
+      },
+      {
+        "cvd_family": "deutan",
+        "severity": 0.5,
+        "hue_range": "green_yellow",
+        "records": 1150
+      },
+      {
+        "cvd_family": "deutan",
+        "severity": 0.5,
+        "hue_range": "red_orange",
+        "records": 2040
+      },
+      {
+        "cvd_family": "deutan",
+        "severity": 0.75,
+        "hue_range": "green_yellow",
+        "records": 1150
+      },
+      {
+        "cvd_family": "deutan",
+        "severity": 0.75,
+        "hue_range": "red_orange",
+        "records": 2040
+      },
+      {
+        "cvd_family": "deutan",
+        "severity": 1.0,
+        "hue_range": "green_yellow",
+        "records": 1150
+      },
+      {
+        "cvd_family": "deutan",
+        "severity": 1.0,
+        "hue_range": "red_orange",
+        "records": 2040
+      },
+      {
+        "cvd_family": "protan",
+        "severity": 0.25,
+        "hue_range": "green_yellow",
+        "records": 1150
+      },
+      {
+        "cvd_family": "protan",
+        "severity": 0.25,
+        "hue_range": "red_orange",
+        "records": 2040
+      },
+      {
+        "cvd_family": "protan",
+        "severity": 0.5,
+        "hue_range": "green_yellow",
+        "records": 1150
+      },
+      {
+        "cvd_family": "protan",
+        "severity": 0.5,
+        "hue_range": "red_orange",
+        "records": 2040
+      },
+      {
+        "cvd_family": "protan",
+        "severity": 0.75,
+        "hue_range": "green_yellow",
+        "records": 1150
+      },
+      {
+        "cvd_family": "protan",
+        "severity": 0.75,
+        "hue_range": "red_orange",
+        "records": 2040
+      },
+      {
+        "cvd_family": "protan",
+        "severity": 1.0,
+        "hue_range": "green_yellow",
+        "records": 1150
+      },
+      {
+        "cvd_family": "protan",
+        "severity": 1.0,
+        "hue_range": "red_orange",
+        "records": 2040
+      }
+    ]
+  },
+  "implementation_diagnostics": {
+    "role": "engineering sanity-check only; not an evaluation or validation metric",
+    "mean_absolute_rgb_change_definition": "mean absolute uint8 RGB difference divided by 255",
+    "gamut_clipping_definition": "fraction of pixels with any transformed linear-RGB channel outside [0, 1] before clipping",
+    "median_rgb_change": 0.04439528100192547,
+    "median_clip_ratio": 0.1437358856201172,
+    "group_summary": [
+      {
+        "cvd_family": "deutan",
+        "severity": 0.25,
+        "hue_range": "green_yellow",
+        "records": 1150,
+        "median_rgb_change": 0.00835693720728159,
+        "median_clip_ratio": 0.07422637939453125,
+        "median_processing_seconds": 0.05972760001895949
+      },
+      {
+        "cvd_family": "deutan",
+        "severity": 0.25,
+        "hue_range": "red_orange",
+        "records": 2040,
+        "median_rgb_change": 0.03816950134932995,
+        "median_clip_ratio": 0.13039588928222656,
+        "median_processing_seconds": 0.05864684999687597
+      },
+      {
+        "cvd_family": "deutan",
+        "severity": 0.5,
+        "hue_range": "green_yellow",
+        "records": 1150,
+        "median_rgb_change": 0.014191985130310059,
+        "median_clip_ratio": 0.08289337158203125,
+        "median_processing_seconds": 0.05935875000432134
+      },
+      {
+        "cvd_family": "deutan",
+        "severity": 0.5,
+        "hue_range": "red_orange",
+        "records": 2040,
+        "median_rgb_change": 0.06089476868510246,
+        "median_clip_ratio": 0.14948272705078125,
+        "median_processing_seconds": 0.05851350000011735
+      },
+      {
+        "cvd_family": "deutan",
+        "severity": 0.75,
+        "hue_range": "green_yellow",
+        "records": 1150,
+        "median_rgb_change": 0.018258155323565006,
+        "median_clip_ratio": 0.03832435607910156,
+        "median_processing_seconds": 0.059523250005440786
+      },
+      {
+        "cvd_family": "deutan",
+        "severity": 0.75,
+        "hue_range": "red_orange",
+        "records": 2040,
+        "median_rgb_change": 0.07582256197929382,
+        "median_clip_ratio": 0.10432815551757812,
+        "median_processing_seconds": 0.05867460000445135
+      },
+      {
+        "cvd_family": "deutan",
+        "severity": 1.0,
+        "hue_range": "green_yellow",
+        "records": 1150,
+        "median_rgb_change": 0.021753174252808094,
+        "median_clip_ratio": 0.091339111328125,
+        "median_processing_seconds": 0.05944610000005923
+      },
+      {
+        "cvd_family": "deutan",
+        "severity": 1.0,
+        "hue_range": "red_orange",
+        "records": 2040,
+        "median_rgb_change": 0.08667996898293495,
+        "median_clip_ratio": 0.13411712646484375,
+        "median_processing_seconds": 0.05833539998275228
+      },
+      {
+        "cvd_family": "protan",
+        "severity": 0.25,
+        "hue_range": "green_yellow",
+        "records": 1150,
+        "median_rgb_change": 0.009601144585758448,
+        "median_clip_ratio": 0.17396926879882812,
+        "median_processing_seconds": 0.06455454998649657
+      },
+      {
+        "cvd_family": "protan",
+        "severity": 0.25,
+        "hue_range": "red_orange",
+        "records": 2040,
+        "median_rgb_change": 0.034314243122935295,
+        "median_clip_ratio": 0.14508056640625,
+        "median_processing_seconds": 0.06258210001396947
+      },
+      {
+        "cvd_family": "protan",
+        "severity": 0.5,
+        "hue_range": "green_yellow",
+        "records": 1150,
+        "median_rgb_change": 0.016885732300579548,
+        "median_clip_ratio": 0.22647857666015625,
+        "median_processing_seconds": 0.05959200000506826
+      },
+      {
+        "cvd_family": "protan",
+        "severity": 0.5,
+        "hue_range": "red_orange",
+        "records": 2040,
+        "median_rgb_change": 0.057243891060352325,
+        "median_clip_ratio": 0.18163108825683594,
+        "median_processing_seconds": 0.05837864999193698
+      },
+      {
+        "cvd_family": "protan",
+        "severity": 0.75,
+        "hue_range": "green_yellow",
+        "records": 1150,
+        "median_rgb_change": 0.02288835309445858,
+        "median_clip_ratio": 0.20814132690429688,
+        "median_processing_seconds": 0.05912454999634065
+      },
+      {
+        "cvd_family": "protan",
+        "severity": 0.75,
+        "hue_range": "red_orange",
+        "records": 2040,
+        "median_rgb_change": 0.07476526871323586,
+        "median_clip_ratio": 0.124847412109375,
+        "median_processing_seconds": 0.05858260003151372
+      },
+      {
+        "cvd_family": "protan",
+        "severity": 1.0,
+        "hue_range": "green_yellow",
+        "records": 1150,
+        "median_rgb_change": 0.0282434755936265,
+        "median_clip_ratio": 0.3033733367919922,
+        "median_processing_seconds": 0.059271000005537644
+      },
+      {
+        "cvd_family": "protan",
+        "severity": 1.0,
+        "hue_range": "red_orange",
+        "records": 2040,
+        "median_rgb_change": 0.09035306423902512,
+        "median_clip_ratio": 0.173980712890625,
+        "median_processing_seconds": 0.05840305000310764
+      }
+    ]
+  },
+  "output_contract": {
+    "undersampling": false,
+    "manifest_is_source_of_truth": true,
+    "input_manifest_sha256": "3771ab866020a367a47bf5419a22fa168af45dc7fff0c71368afb9602e5fb43f",
+    "machado_module_sha256": "73f8176c302765e349a3c7be983ab725a52e22994ecb6a29bf8d9831f35fb999",
+    "composite_key": [
+      "subset",
+      "source_class",
+      "source_file_name",
+      "cvd_family",
+      "severity"
+    ],
+    "checkpoint_composite_key": [
+      "subset",
+      "source_class",
+      "source_file_name",
+      "cvd_family",
+      "severity"
+    ],
+    "progress_composite_key": [
+      "method_version",
+      "processed_records"
+    ],
+    "diagnostics_are_not_validation": true
+  },
+  "outputs": {
+    "report_csv": "C:\\Colorblind_correction\\research\\notebooks\\02\\output\\simulation_report.csv",
+    "checkpoint_csv": "C:\\Colorblind_correction\\research\\notebooks\\02\\output\\simulation_checkpoint.csv",
+    "progress_csv": "C:\\Colorblind_correction\\research\\notebooks\\02\\output\\simulation_progress.csv",
+    "error_csv": "C:\\Colorblind_correction\\research\\notebooks\\02\\output\\simulation_errors.csv",
+    "simulated_images": "C:\\Colorblind_correction\\research\\notebooks\\02\\output\\simulated_images",
+    "figures": [
+      "C:\\Colorblind_correction\\research\\notebooks\\02\\output\\figures\\simulation_severity_protan.png",
+      "C:\\Colorblind_correction\\research\\notebooks\\02\\output\\figures\\simulation_severity_deutan.png"
+    ]
+  },
+  "created_at": "2026-09-03T07:09:58+00:00"
+}

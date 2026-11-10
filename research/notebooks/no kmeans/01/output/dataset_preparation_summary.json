@@ -1,0 +1,24 @@
+{
+  "method_version": "dataset-preparation-3.0",
+  "subset": "train",
+  "selected_classes": [
+    "001apple",
+    "002orange",
+    "003pear",
+    "004tomato",
+    "005strawberry",
+    "006banana",
+    "007watermelon",
+    "009peach",
+    "010pomegranate",
+    "012starfruit",
+    "014lemon",
+    "015pomelo"
+  ],
+  "raw_image_count": 3740,
+  "processed_image_count": 3604,
+  "duplicates_removed": 136,
+  "preprocessing_errors": 0,
+  "output_size": 512,
+  "phash_threshold": 4
+}
